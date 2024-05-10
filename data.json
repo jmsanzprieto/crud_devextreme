@@ -1,0 +1,73 @@
+[
+    {
+        "ID": 1,
+        "nombre": "Juan",
+        "apellidos": "González",
+        "email": "juan.gonzalez@example.com",
+        "telefono": "123-456-7890"
+    },
+    {
+        "ID": 2,
+        "nombre": "María",
+        "apellidos": "Rodríguez",
+        "email": "maria.rodriguez@example.com",
+        "telefono": "234-567-8901"
+    },
+    {
+        "ID": 3,
+        "nombre": "Carlos",
+        "apellidos": "López",
+        "email": "carlos.lopez@example.com",
+        "telefono": "345-678-9012"
+    },
+    {
+        "ID": 4,
+        "nombre": "Ana",
+        "apellidos": "Martínez",
+        "email": "ana.martinez@example.com",
+        "telefono": "456-789-0123"
+    },
+    {
+        "ID": 5,
+        "nombre": "David",
+        "apellidos": "Pérez",
+        "email": "david.perez@example.com",
+        "telefono": "567-890-1234"
+    },
+    {
+        "ID": 6,
+        "nombre": "Laura",
+        "apellidos": "Sánchez",
+        "email": "laura.sanchez@example.com",
+        "telefono": "678-901-2345"
+    },
+    {
+        "ID": 7,
+        "nombre": "Daniel",
+        "apellidos": "Gómez",
+        "email": "daniel.gomez@example.com",
+        "telefono": "789-012-3456"
+    },
+    {
+        "ID": 8,
+        "nombre": "Sofía",
+        "apellidos": "Díaz",
+        "email": "sofia.diaz@example.com",
+        "telefono": "890-123-4567"
+    },
+    {
+        "ID": 9,
+        "nombre": "Pablo",
+        "apellidos": "Muñoz",
+        "email": "pablo.munoz@example.com",
+        "telefono": "901-234-5678"
+    },
+    {
+        "ID": 10,
+        "nombre": "Elena",
+        "apellidos": "Jiménez",
+        "email": "elena.jimenez@example.com",
+        "telefono": "012-345-6789"
+    },
+   
+]
