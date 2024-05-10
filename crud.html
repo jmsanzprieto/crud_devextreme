@@ -20,9 +20,7 @@
             $.getJSON('data.json', function(data) {
                 var grid = $('#gridContainer').dxDataGrid({
                     dataSource: data,
-                    //keyExpr: 'ID',
                     columns: [
-						//{ dataField: 'ID', caption: 'ID' },
                         { dataField: 'nombre', caption: 'Nombre' },
                         { dataField: 'apellidos', caption: 'Apellidos' },
                         { dataField: 'email', caption: 'Email' },
